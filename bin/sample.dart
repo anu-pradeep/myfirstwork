@@ -9,8 +9,8 @@ void main()
   int d;
   c=1;
   d=2;
-  print("my name is $name");
+  print("my name is $name");  // without$ name cant print
   print("my age $age");
-  print("the value of ${a+b}");
+  print("the value of ${a+b}"); // after $ add{} for functions
   print("the answer is ${c+d}");
 }
