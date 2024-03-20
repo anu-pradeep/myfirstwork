@@ -9,4 +9,4 @@ void main()
   print(result1);
 }
 // ? : = condition operator
-// ?= null operator
+// ??  = null operator

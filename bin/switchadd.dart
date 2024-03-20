@@ -23,7 +23,7 @@ void main()
       print("division ${num1/num2}");
       break;
     case "null":
-      print("null divison ${num1~/num2}");
+      print("null division ${num1~/num2}");
       break;
     case "mod":
       print("modulus ${num1%num2}");

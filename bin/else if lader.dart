@@ -8,7 +8,8 @@ void main()
     {
       print("Excellent");
     }
-  else if(mark>70){
+  else if(mark>70)
+  {
     print("Great");
   }
   else if(mark>60)
